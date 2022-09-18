@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "coin-list-app",
+    "slug": "coin-list-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "coin-list-app"
+}
